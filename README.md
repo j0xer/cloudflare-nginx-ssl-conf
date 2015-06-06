@@ -12,4 +12,4 @@ And then
 
 Please note that you should use Cloudflare's own configuration for ssl.
 I've used the following repo - 
-(https://github.com/cloudflare/sslconfig)
+https://github.com/cloudflare/sslconfig
